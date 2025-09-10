@@ -6,7 +6,7 @@ public School
   LSU.Minor = "Math";
 }
   
-//I’m currently working on a Shift Reduce Parser 
+// 
 
 public Contact
 {
